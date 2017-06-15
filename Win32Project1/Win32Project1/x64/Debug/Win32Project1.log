@@ -1,0 +1,10 @@
+﻿  Win32Project1.cpp
+y:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+y:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+y:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+y:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+y:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ve\documents\visual studio 2015\projects\win32project1\win32project1\win32project1.cpp(192): warning C4101: “ps”: 未引用的局部变量
+LINK : warning LNK4067: 不明确的入口点；选定“WinMainCRTStartup”
+  Win32Project1.vcxproj -> C:\Users\VE\documents\visual studio 2015\Projects\Win32Project1\x64\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> C:\Users\VE\documents\visual studio 2015\Projects\Win32Project1\x64\Debug\Win32Project1.pdb (Full PDB)
